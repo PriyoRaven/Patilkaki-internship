@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
   setTimeout(function () {
     var bground = document.getElementById("hidden");
-    bground.style.display = "block";
+    bground.style.display = "none";
   }, 1000);
 
   setTimeout(function () {
